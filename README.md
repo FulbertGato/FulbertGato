@@ -15,8 +15,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
     - 👯 Je partage aussi sur [GitLab](https://gitlab.com/gatojunior)
 
-    - 👨‍💻 Tous mes projets sont disponibles sur [https://gitlab.com/yoandev.co](https://github.com/FulbertGato?tab=repositories)
-
+    - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/FulbertGato?tab=repositories](https://github.com/FulbertGato?tab=repositories)
 
     - 📫 Comment me joindre **gatojunior.co@gmail.com**
 
