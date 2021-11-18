@@ -27,7 +27,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 
 
-![Les statistiques d'e.michel sur les github](https://github-readme-stats.vercel.app/api?username=FulbertGato&show_icons=true&hide=["prs","issues","contribs"])
+![Les statistiques de Fulbert sur les github](https://github-readme-stats.vercel.app/api?username=FulbertGato&show_icons=true&hide=["prs","issues","contribs"])
 
 <p> 
 
