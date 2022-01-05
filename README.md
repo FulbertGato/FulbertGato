@@ -1,7 +1,7 @@
 # ![FulbertGato](https://github.com/FulbertGato/FulbertGato/blob/main/twitter-min.jpg)
 
 <h1 align="center">Salut 👋, Je suis Fulbert Gato</h1>
-<h3 align="center">Dévéloppeur FullStack</h3>
+<h3 align="center">Dévéloppeur Web et Mobile</h3>
 
 Jeune professionnel dans le web, je suis quelqu’un de sérieux, appliquer et organiser dans les projets que j’entreprends.
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à m'appeler [@FulbertGato](https://twitter.com/FulbertGato/) ou à me donner un peu de ♥ sur [mail](mailto:gatojunior.co@gmail.com). N'hésitez pas à me contacter au cas où vous voudriez également me joindre.
