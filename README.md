@@ -28,7 +28,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 
 ![Les statistiques de Fulbert sur les github](https://github-readme-stats.vercel.app/api?username=FulbertGato&show_icons=true&hide=["prs","issues","contribs"])
-![Les statistiques de Fulbert sur les github](https://github-readme-stats.vercel.app/api/top-langs/?username=FulbertGato&show_icons=true&theme=radical)
+![Les statistiques de Fulbert sur les github](https://github-readme-stats.vercel.app/api/top-langs/?username=FulbertGato&show_icons=true)
 <p> 
 
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
